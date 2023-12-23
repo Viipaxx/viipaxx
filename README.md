@@ -2,7 +2,6 @@
 
 - 🌱 Atualmente estou aprendendo Python, Java e MySQL, HTML, CSS e JavaScript, TypeScript, Docker, Angular...
 - 📫 Como me contatar: viipaxx@gmail.com
-- ⚡ Curiosidade: amo conversar kk
 
 ##
 
